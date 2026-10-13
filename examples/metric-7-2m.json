@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "units": "metric",
+  "segments": [{ "length": 7.2, "exposedHeight": 0.8 }],
+  "block": { "length": 400, "height": 200 },
+  "buriedCourses": 1,
+  "blockAllowancePercent": 10
+}

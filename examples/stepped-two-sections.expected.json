@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 1,
+  "toolkitVersion": "1.0.0",
+  "units": "imperial",
+  "linearUnit": "ft",
+  "totalLength": 24,
+  "sections": [
+    {
+      "length": 12,
+      "exposedHeight": 2,
+      "unitsPerCourse": 9,
+      "visibleCourses": 4,
+      "totalCourses": 5,
+      "constructedCourseHeight": 2.5,
+      "visibleBlocks": 36,
+      "buriedBlocks": 9,
+      "netBlocks": 45
+    },
+    {
+      "length": 12,
+      "exposedHeight": 3.1,
+      "unitsPerCourse": 9,
+      "visibleCourses": 7,
+      "totalCourses": 8,
+      "constructedCourseHeight": 4,
+      "visibleBlocks": 63,
+      "buriedBlocks": 9,
+      "netBlocks": 72
+    }
+  ],
+  "blocks": {
+    "visible": 99,
+    "buried": 18,
+    "net": 117,
+    "allowancePercent": 10,
+    "order": 129,
+    "extra": 12
+  },
+  "caps": {
+    "net": 18,
+    "allowancePercent": 10,
+    "order": 20,
+    "extra": 2
+  },
+  "aggregate": {
+    "unit": "yd3",
+    "base": null,
+    "drainage": null,
+    "total": {
+      "net": 0,
+      "order": 0
+    }
+  },
+  "packaging": null
+}

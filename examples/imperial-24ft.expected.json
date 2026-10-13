@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+  "toolkitVersion": "1.0.0",
+  "units": "imperial",
+  "linearUnit": "ft",
+  "totalLength": 24,
+  "sections": [
+    {
+      "length": 24,
+      "exposedHeight": 2.5,
+      "unitsPerCourse": 18,
+      "visibleCourses": 5,
+      "totalCourses": 6,
+      "constructedCourseHeight": 3,
+      "visibleBlocks": 90,
+      "buriedBlocks": 18,
+      "netBlocks": 108
+    }
+  ],
+  "blocks": {
+    "visible": 90,
+    "buried": 18,
+    "net": 108,
+    "allowancePercent": 10,
+    "order": 119,
+    "extra": 11
+  },
+  "caps": {
+    "net": 18,
+    "allowancePercent": 10,
+    "order": 20,
+    "extra": 2
+  },
+  "aggregate": {
+    "unit": "yd3",
+    "base": {
+      "net": 0.8148148148148148,
+      "allowancePercent": 10,
+      "order": 0.8962962962962964
+    },
+    "drainage": {
+      "netZone": 2.2222222222222223,
+      "netCore": 0,
+      "net": 2.2222222222222223,
+      "allowancePercent": 10,
+      "order": 2.4444444444444446
+    },
+    "total": {
+      "net": 3.037037037037037,
+      "order": 3.340740740740741
+    }
+  },
+  "packaging": {
+    "blocks": {
+      "requiredUnits": 119,
+      "unitsPerPackage": 75,
+      "packages": 2,
+      "suppliedUnits": 150,
+      "overOrder": 31
+    },
+    "caps": null
+  }
+}

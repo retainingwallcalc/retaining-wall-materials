@@ -1,0 +1,6 @@
+material,example_order_quantity,unit,possible_package_supply,product_or_grade,supplier_selling_unit,confirmed_quantity,unit_price,currency,delivery_tax_scope,notes
+Wall blocks,119,blocks,150,,,,,,,119 includes selected 10%; 150 only if buying two full 75-unit packages. Confirm product coverage.
+Cap stones,20,caps,,,,,,,,Separate product; includes selected cap allowance.
+Base aggregate,0.8962962962962963,yd3,,,,,,,,Selected geometric example; confirm product and selling increment.
+Drainage and core-fill stone,2.4444444444444446,yd3,,,,,,,,Separate product; example core fill is zero.
+Other items,,,,,,,,,,"Pipe, fabric, adhesive, reinforcement, excavation and labor not estimated by this toolkit."

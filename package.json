@@ -1,0 +1,18 @@
+{
+  "name": "retaining-wall-materials",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependency-free material estimates for retaining wall blocks, caps and stone, with imperial and metric worked examples.",
+  "type": "module",
+  "exports": "./src/index.mjs",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "example": "node cli.mjs examples/imperial-24ft.json",
+    "example:metric": "node cli.mjs examples/metric-7-2m.json"
+  },
+  "license": "MIT",
+  "author": "Retaining Wall Calc",
+  "homepage": "https://retainingwallcalc.org/",
+  "keywords": ["retaining-wall", "material-estimate", "calculator", "landscaping", "metric", "imperial"]
+}

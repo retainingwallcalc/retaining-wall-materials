@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "units": "imperial",
+  "segments": [
+    { "length": 12, "exposedHeight": 2 },
+    { "length": 12, "exposedHeight": 3.1 }
+  ],
+  "block": { "length": 16, "height": 6 },
+  "buriedCourses": 1,
+  "blockAllowancePercent": 10,
+  "caps": { "length": 16, "allowancePercent": 10 }
+}

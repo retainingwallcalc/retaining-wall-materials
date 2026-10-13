@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "toolkitVersion": "1.0.0",
+  "units": "metric",
+  "linearUnit": "m",
+  "totalLength": 7.2,
+  "sections": [
+    {
+      "length": 7.2,
+      "exposedHeight": 0.8,
+      "unitsPerCourse": 18,
+      "visibleCourses": 4,
+      "totalCourses": 5,
+      "constructedCourseHeight": 1,
+      "visibleBlocks": 72,
+      "buriedBlocks": 18,
+      "netBlocks": 90
+    }
+  ],
+  "blocks": {
+    "visible": 72,
+    "buried": 18,
+    "net": 90,
+    "allowancePercent": 10,
+    "order": 99,
+    "extra": 9
+  },
+  "caps": null,
+  "aggregate": {
+    "unit": "m3",
+    "base": null,
+    "drainage": null,
+    "total": {
+      "net": 0,
+      "order": 0
+    }
+  },
+  "packaging": null
+}

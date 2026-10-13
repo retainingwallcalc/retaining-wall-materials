@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "toolkitVersion": "1.0.0",
+  "units": "imperial",
+  "linearUnit": "ft",
+  "totalLength": 15.707963267948966,
+  "sections": [
+    {
+      "length": 15.707963267948966,
+      "exposedHeight": 2.5,
+      "unitsPerCourse": 12,
+      "visibleCourses": 5,
+      "totalCourses": 6,
+      "constructedCourseHeight": 3,
+      "visibleBlocks": 60,
+      "buriedBlocks": 12,
+      "netBlocks": 72
+    }
+  ],
+  "blocks": {
+    "visible": 60,
+    "buried": 12,
+    "net": 72,
+    "allowancePercent": 10,
+    "order": 80,
+    "extra": 8
+  },
+  "caps": null,
+  "aggregate": {
+    "unit": "yd3",
+    "base": null,
+    "drainage": null,
+    "total": {
+      "net": 0,
+      "order": 0
+    }
+  },
+  "packaging": null
+}
