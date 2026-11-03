@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "units": "imperial",
+  "segments": [
+    {
+      "length": 30,
+      "exposedHeight": 3
+    }
+  ],
+  "block": {
+    "length": 17.625,
+    "height": 7.625
+  },
+  "buriedCourses": 1,
+  "blockAllowancePercent": 10,
+  "caps": {
+    "length": 17.625,
+    "allowancePercent": 10
+  },
+  "base": {
+    "width": 23.875,
+    "depth": 6,
+    "allowancePercent": 10
+  },
+  "drainage": {
+    "width": 12,
+    "soilCap": 6,
+    "coreFillPerBlock": 0,
+    "allowancePercent": 10
+  },
+  "packaging": {
+    "blocksPerPackage": 40
+  }
+}
