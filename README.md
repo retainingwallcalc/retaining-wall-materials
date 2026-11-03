@@ -60,6 +60,8 @@ See [API and input units](docs/api.md), [formulas and limits](docs/methodology.m
 - [Block calculator](https://retainingwallcalc.org/calculators/block-calculator?utm_source=github&utm_medium=referral&utm_campaign=launch_2026_10&utm_content=readme_blocks)
 - [Gravel and drainage calculator](https://retainingwallcalc.org/calculators/gravel-drainage-calculator?utm_source=github&utm_medium=referral&utm_campaign=launch_2026_10&utm_content=readme_stone)
 - [Website formulas and assumptions](https://retainingwallcalc.org/methodology-and-formulas?utm_source=github&utm_medium=referral&utm_campaign=launch_2026_10&utm_content=readme_formulas)
+- [Allan Block counts and pallet examples](https://retainingwallcalc.org/guides/allan-block-calculator?utm_source=github&utm_medium=referral&utm_campaign=launch_2026_10&utm_content=readme_allan_block)
+- [Poured-concrete wall and footing calculator](https://retainingwallcalc.org/calculators/poured-concrete-retaining-wall-calculator?utm_source=github&utm_medium=referral&utm_campaign=launch_2026_10&utm_content=readme_poured_concrete)
 
 The toolkit implements the documented subset above. It is a separate resource; it does not include the website application, pricing, project sharing, fabric/pipe/adhesive quantities or design checks. Runtime code makes no external requests. Related website links carry placement labels for referral measurement.
 
