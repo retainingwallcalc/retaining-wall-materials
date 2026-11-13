@@ -70,3 +70,24 @@ The toolkit implements the documented subset above. It is a separate resource; i
 For a calculation issue, include minimal JSON input and the expected count or volume. Read [CONTRIBUTING.md](CONTRIBUTING.md) before sending a pull request. Keep examples free of personal site details.
 
 Code and documentation: [MIT license](LICENSE). Brand artwork has a separate [asset notice](assets/NOTICE.md).
+
+## Multi-System & International Metric Reference Suite (v1.1.0)
+
+Alongside standard dry-stacked segmental retaining wall blocks, you can cross-check worked material takeoffs across five structural systems and three metric jurisdictions:
+
+| System / Region | Worked Benchmark | Net Quantity | Order Quantity (w/ Allowance) | Interactive Tool / Reference |
+| :--- | :--- | :--- | :--- | :--- |
+| **Allan Block Classic (NY)** | `30 ft × 3 ft` (`17⅝ × 7⅝ in`, +1 buried) | `126 blocks` | `139 blocks` (`4 pallets = 160`) | [Allan Block Calculator Guide](https://retainingwallcalc.org/guides/allan-block-calculator) |
+| **Mortared CMU (`16 × 8 in`)** | `30 ft × 3 ft` (`15⅝ × 7⅝ + ⅜ in joint`, +1 buried) | `138 blocks` | `152 CMU blocks` (`+10%`) | [Cinder Block (CMU) Calculator](https://retainingwallcalc.org/calculators/cinder-block-calculator) |
+| **Timber Sleepers (`8 ft`)** | `30 ft × 3 ft` (`96 × 5.5 × 5.5 in`, +1 buried) | `32 sleepers` | `36 timbers` (`+10%`) | [Timber Retaining Wall Calculator](https://retainingwallcalc.org/calculators/timber-retaining-wall-calculator) |
+| **Poured Concrete (Stem + Footing)** | `30 ft × 4 ft × 8 in` stem + `24 × 12 in` footing | `5.19 yd³` (`140 ft³`) | `5.70 yd³` (`4.36 m³`, `+10%`) | [Poured-Concrete Wall Calculator](https://retainingwallcalc.org/calculators/poured-concrete-retaining-wall-calculator) |
+| **Gabion Baskets & Rock Fill** | `30 ft × 6 ft` (`6 × 3 × 3 ft` baskets @ `2,860 lb/yd³`) | `10 baskets` / `20 yd³` | `21.0 yd³` (`30.03 US short tons`, `+5%`) | [Gabion Wall Calculator](https://retainingwallcalc.org/calculators/gabion-wall-calculator) |
+| **Australia (`AUD` Metric)** | `10 m × 0.6 m` Adbri Versawall (`400 × 200 × 215 mm`) | `100 blocks` | `110 blocks` (`2 pallets = 120`) | [Australia Retaining Wall Calculator](https://retainingwallcalc.org/au/retaining-wall-calculator) |
+| **United Kingdom (`GBP` Metric)** | `7.2 m × 0.4 m` Marshalls Croft Stone (`300 × 100 × 170 mm`) | `120 blocks` | `132 blocks` (`2 packs = 180`) | [UK Retaining Wall Calculator](https://retainingwallcalc.org/uk/retaining-wall-calculator) |
+| **Canada (`CAD` Metric)** | `12 m × 0.75 m` Unilock Ontario Pisa2 (`200 × 150 × 300 mm`) | `360 blocks` | `396 blocks` (`6 bundles = 432`) | [Canada Retaining Wall Calculator](https://retainingwallcalc.org/ca/retaining-wall-calculator) |
+
+### Additional Engineering & Permit Guides
+* [Retaining Wall Cost per Square Foot & Linear Foot (2026)](https://retainingwallcalc.org/guides/retaining-wall-cost-per-square-foot)
+* [Retaining Wall Base Depth & the 1/3 Rule Explained](https://retainingwallcalc.org/guides/retaining-wall-base-depth)
+* [Do I Need a Permit for a Retaining Wall? (US Examples)](https://retainingwallcalc.org/guides/retaining-wall-permit-height-limits)
+* [Hillside & Terraced Retaining Wall Planning Guide](https://retainingwallcalc.org/guides/hillside-terraced-retaining-wall-planning)
